@@ -1,3 +1,4 @@
+/*! Cookie.js | (c) Alexander Schmitz | https://raw.githubusercontent.com/arschmitz/cookie/master/LICENSE */
 // JavaScript Document
 (function( window, undefined ) {
 
