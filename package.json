@@ -1,7 +1,7 @@
 {
   "name": "nobake-cookie",
   "description": "A simple global method for manipulating cookies",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "name": "Alex Schmitz",
     "url": "https://github.com/arschmitz/nobake-cookie/blob/master/AUTHORS.txt"
