@@ -1,0 +1,33 @@
+{
+  "name": "nobake-cookie",
+  "description": "A simple global method for manipulating cookies",
+  "version": "0.0.0",
+  "author": {
+    "name": "Alex Schmitz",
+    "url": "https://github.com/arschmitz/nobake-cookie/blob/master/AUTHORS.txt"
+  },
+  "homepage": "https://github.com/arschmitz/nobake-cookie",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arschmitz/nobake-cookie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arschmitz/nobake-cookie/issues"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "keywords": [
+    "cookie",
+    "cookies",
+    "save",
+    "parse",
+    "delete",
+    "store"
+  ],
+  "main": "nobake-cookie.js",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
